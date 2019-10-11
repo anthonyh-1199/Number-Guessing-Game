@@ -2,7 +2,9 @@
 
 ## Description
 
-This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. This project was originally created for an assignment in CS232.
+This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. 
+
+This project was originally created for an assignment in CS232.
 
 ## Installation
 
