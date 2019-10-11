@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. 
+This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. This project was originally created for an assignment in CS232.
 
 ## Installation
 
-Please download the Numbergame.jar file and run it using an appropriate Java Runtime Environment. Source code for the program can be viewed via the Numbergame.java file. This project was originally created for an assignment in CS232.
+Please download the Numbergame.jar file and run it using an appropriate Java Runtime Environment. Source code for the program can be viewed via the Numbergame.java file. 
 
 ## How to Use
 
