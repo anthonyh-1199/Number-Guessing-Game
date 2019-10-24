@@ -2,9 +2,11 @@
 
 ## Description
 
-This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. 
+This is a lightweight game in which the user will attempt to guess a randomly-chosen integer between 1 and 100. Incorrect guesses will cause the program to print out a hint to the user to help him or her guess the number.
 
-This project was originally created for an assignment in CS232.
+This project was originally created for an assignment in my CS232 class, focusing on getting user input via a Scanner object, and on the use of the Math.random() function.
+
+Note: The program currently does not support any non-integer input, and will throw an error if a float or string is inputed by the user.
 
 ## Installation
 
